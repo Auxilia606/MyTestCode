@@ -1,0 +1,22 @@
+{
+  "name": "mytestcode",
+  "version": "1.0.0",
+  "description": "my testing code",
+  "main": "TestHeap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auxilia606/MyTestCode.git"
+  },
+  "author": "youngtaek_hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auxilia606/MyTestCode/issues"
+  },
+  "homepage": "https://github.com/Auxilia606/MyTestCode#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
